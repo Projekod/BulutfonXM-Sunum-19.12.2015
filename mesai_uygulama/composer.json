@@ -1,0 +1,11 @@
+{
+    "require": {
+        "bulutfon/php-sdk": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "App": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
